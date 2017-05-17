@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1494990043 source:c:\users\admin\desktop\活动管理系统\main.c
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<malloc.h>
+
